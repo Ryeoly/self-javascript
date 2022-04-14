@@ -1,0 +1,23 @@
+{
+  "name": "self-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryeoly/self-javascript.git"
+  },
+  "author": "Ryeoly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryeoly/self-javascript/issues"
+  },
+  "homepage": "https://github.com/Ryeoly/self-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
